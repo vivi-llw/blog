@@ -38,11 +38,11 @@ googleAnalytics = ""
 
   [[params.navlinks]]
   name = "About"
-  url = "about/"
+  url = "/about"
 
   [[params.navlinks]]
   name = "Get in touch"
-  url = "contact/"
+  url = "/contact"
 
   [params.social]
   facebook      = "full page or profile url in facebook"
