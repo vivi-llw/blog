@@ -1,2 +1,2 @@
 # blog
-blog of mu
+blog of my
