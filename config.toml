@@ -1,5 +1,5 @@
-baseurl = "https://yueziyao.github.io"
-title = "Alex's blog"
+baseurl = "https://vivi-llw.github.io"
+title = "vivi-llw's blog"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "zh-CN"
 # Enable comments by entering your Disqus shortname
@@ -11,10 +11,10 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
-  description = "for FE"
-  copyright = "&copy;2018 Alex Yue"
+  description = "for UE"
+  copyright = "&copy;2018 vivi"
   sidebarAbout = [
-    "Front-End Engineer,love coding & design",
+    "ue designer,love coding & design",
     "Stay Hungry,Stay Foolish!"
   ]
   # Contact page
