@@ -1,8 +1,8 @@
-# Blog of Alex
+# Blog of Vivi
 
 Blog's source code.
 
-* blog： http://yueziyao.github.io 
+* blog： http://vivi.github.io 
 * **Use**:  hugo + travis CI + github page 
 
 ## info
